@@ -1,5 +1,5 @@
 # 💫 About Me:
-Halo, saya Nabil Arif a.k.a NabilApipp🤙🏻🤙🏻, seorang siswa Rekayasa Perangka Lunak dengan minat besar dalam pengembangan web dan teknologi backend. Saya memiliki pengalaman dalam membangun website menggunakan HTML, CSS, dan JavaScript serta framework seperti React dan Laravel. Selain itu, saya juga terbiasa mengelola database dengan MySQL.
+Halo, saya Nabil Arif a.k.a NabilApipp🤙🏻🤙🏻, seorang siswa Rekayasa Perangkat Lunak dengan minat besar dalam pengembangan web dan teknologi backend. Saya memiliki pengalaman dalam membangun website menggunakan HTML, CSS, dan JavaScript serta framework seperti React dan Laravel. Selain itu, saya juga terbiasa mengelola database dengan MySQL.
 
 Saat ini, saya ingin terus mengembangkan keterampilan saya sebagai Full-Stack Developer dan menciptakan solusi berbasis teknologi yang bermanfaat bagi masyarakat. **Terima kasih** 🚀
 

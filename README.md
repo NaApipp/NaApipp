@@ -14,20 +14,5 @@ Saat ini, saya ingin terus mengembangkan keterampilan saya sebagai Full-Stack De
 ![](https://nirzak-streak-stats.vercel.app/?user=NaApipp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaApipp&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NaApipp&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=NaApipp&icon=9&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!-- GITHUBWALLPAPER:START -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/m2r4mytk54giz9xsfr9cb86t-dark.svg?v=1785669412796">
-  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/m2r4mytk54giz9xsfr9cb86t-light.svg?v=1785669412796">
-  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/m2r4mytk54giz9xsfr9cb86t-dark.svg?v=1785669412796">
-</picture>
-<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
 <!-- GITHUBWALLPAPER:END -->

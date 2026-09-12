@@ -1,18 +1,125 @@
-# 💫 About Me:
-Halo, saya Nabil Arif a.k.a NabilApipp🤙🏻🤙🏻, seorang siswa Rekayasa Perangkat Lunak dengan minat besar dalam pengembangan web dan teknologi backend. Saya memiliki pengalaman dalam membangun website menggunakan HTML, CSS, dan JavaScript serta framework seperti React dan Laravel. Selain itu, saya juga terbiasa mengelola database dengan MySQL.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=315B8C&text=Im,%20Nabil%20Arif%2&desc=QA%20Engineer%20|%20Fullstack%20Web%20Developer%2&descAlign=50&descAlignY=55&descSize=24&animation=twinkling&textBg=false&fontSize=75&fontAlignY=40&section=header&reversal=false&fontColor=FFF" width="100%" />
 
-Saat ini, saya ingin terus mengembangkan keterampilan saya sebagai Full-Stack Developer dan menciptakan solusi berbasis teknologi yang bermanfaat bagi masyarakat. **Terima kasih** 🚀
+<p align="center">
+ <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=8ACFF8&center=true&vCenter=true&width=440&lines=Informatics+engineering+student;QA+Engneer+%26+Fullstack+Web+Developer;always+learning+for+new+technology" alt="Typing SVG" />
+ </a>
+</p>
 
+<!-- ══════════════════════════════════════ ABOUT ME ══════════════════════════════════════ -->
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/aUbCdD9ttA) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/n_apipppp/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://superapps-porto.vercel.app/www.linkedin.com/in/nabilariftriyanto) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@super_appps) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/n_apipppp) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@http://www.youtube.com/@n_apipppp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nabilapipp@gmail.com) 
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">&nbsp; About Me</h2>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NaApipp&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NaApipp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaApipp&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+```yaml
+name: Nabil Arif Triyanto
+location: Indonesia 🇮🇩
+education: Teknik Informatika | Universitas Dian Nuswantoro
+semester: 4
+focus: Full-Stack Web Development & WhatsApp Bot
+currently_learning: Next.js, TypeScript, System Architecture
+fun_fact: I turn coffee into code ☕ → 💻
+```
 
+<!-- ══════════════════════════════════════ CONNECT ══════════════════════════════════════ -->
 
-<!-- GITHUBWALLPAPER:END -->
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">&nbsp; Connect With Me</h2>
+
+<p align="center">
+  <a href="mailto:ryharofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ryharofficial@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/rizkihartawan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rizki_Hartawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://github.com/RyHarJr">
+    <img src="https://img.shields.io/badge/GitHub-RyHarJr-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RyHarJr&color=0ea5e9&label=Profile+Views&style=flat-square" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/RyHarJr?label=Followers&style=flat-square&color=0ea5e9&logo=github" />
+</p>
+
+<!-- ══════════════════════════════════════ TECH STACK ══════════════════════════════════════ -->
+
+<h2>🛠️ Tech Stack</h2>
+
+<div align="center">
+<table>
+<tr>
+  <td align="center" width="150"><b>💻 Core</b></td>
+  <td align="center" width="150"><b>🎨 Frontend</b></td>
+  <td align="center" width="150"><b>⚙️ Backend</b></td>
+  <td align="center" width="150"><b>🔧 Tools</b></td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=html,css&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=vite&theme=dark" />
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=express,laravel&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=prisma,php&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+  </td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=git,github&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=vercel,npm&theme=dark" />
+  </td>
+</tr>
+</table>
+</div>
+
+<!-- ══════════════════════════════════════ GITHUB STATS ══════════════════════════════════════ -->
+
+<h2>📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RyHarJr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=0ea5e9&title_color=0ea5e9&text_color=c9d1d9" alt="GitHub Stats" />
+  &nbsp;
+  <img width="48%" src="https://streak-stats.demolab.com?user=RyHarJr&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=c9d1d9&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyHarJr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+<!-- ══════════════════════════════════════ CONTRIBUTION GRAPH ══════════════════════════════════════ -->
+
+<h2>📈 Contribution Graph</h2>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyHarJr&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=7dd3fc&area=true&area_color=0ea5e9&hide_border=true" width="95%" alt="Activity Graph" />
+  </a>
+</p>
+
+<!-- ══════════════════════════════════════ SNAKE ══════════════════════════════════════ -->
+
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RyHarJr/RyHarJr/output/github-snake-dark.svg" alt="Snake animation" width="95%" />
+</p>
+
+<!-- ══════════════════════════════════════ QUOTE ══════════════════════════════════════ -->
+
+<hr>
+
+<h3 align="center">💬 Random Dev Quote</h3>
+
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=100&section=footer" width="100%" />

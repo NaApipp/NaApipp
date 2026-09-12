@@ -24,7 +24,7 @@ currently_learning: NextJs, VueJs, ExpressJs, ReactJs, System Architecture, & Au
 
 <p align="center">
   <a href="mailto:nabilapipp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ryharofficial@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-nabilapippl@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/nabilariftriyanto/">
     <img src="https://img.shields.io/badge/LinkedIn-Nabil_Arif_Triyanto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
